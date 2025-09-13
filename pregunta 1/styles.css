@@ -1,0 +1,101 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+nav {
+    display: flex;
+}
+
+#Nintendo {
+    background-color: red;
+    padding-top: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+ul {
+    display: flex;
+}
+img {
+    max-width: 100%;
+    border-radius: 1vh;
+    width: 100%;
+}
+#bannerContainer {
+    padding: 1.1%;
+    padding-top: 2.2%;
+}
+#banner {
+    border-radius: 2vh;
+}
+#arriba {
+    background: linear-gradient(to bottom, red, white);
+}
+#content {
+    text-align: center;
+}
+h1 {
+    margin-bottom: 3%;
+    font-family: Arial, sans-serif;
+}
+span {
+    font: Arial, sans-serif;
+    color: white;
+    background-color: red;
+    padding: 15px;
+    border-radius: 1vh;
+    margin-top: 20px;
+}
+.destacadosContainer {
+    display: flex;
+}
+#destacado {
+    width: 30%;
+    padding: 20px;
+    border-style: double;
+    text-align: center;
+    border-style: solid; 
+    border-radius: 3vh;
+    border-color: gray;
+    border-width: 1px;
+    height: 570px;
+}
+#destacado_center {
+    width: 30%;
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-style: solid; 
+    border-radius: 3vh;
+    text-align: center;
+    border-color: gray;
+    border-width: 1px;
+    height: 570px;
+}
+#azul {
+    background-color: blue;
+}
+h5 {
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    margin: 25px;
+    height: 50px;
+}
+#abajo {
+    padding-left: 5px;
+}
+h6 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    height: 46px;
+}
+li{
+    padding: 10px;
+    margin-right: 25px;
+}
+h2 {
+    margin-left: 20px;
+    font-size: 35px;
+
+}
